@@ -1,0 +1,3 @@
+/Users/naitiksinghal/Developer/Cache Mapping System/build/CMakeFiles/cache_simulator.dir
+/Users/naitiksinghal/Developer/Cache Mapping System/build/CMakeFiles/edit_cache.dir
+/Users/naitiksinghal/Developer/Cache Mapping System/build/CMakeFiles/rebuild_cache.dir
